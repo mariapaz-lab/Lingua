@@ -1,4 +1,4 @@
-
+package org.example.app;
 
 public class ComprobantePDF implements ComprobantePago{
     @Override

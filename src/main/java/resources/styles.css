@@ -1,0 +1,23 @@
+.root-app { -fx-background-color: #f6f7fb; -fx-font-family: "Segoe UI", "Arial"; }
+.sidebar { -fx-background-color: #253a50; }
+.logo { -fx-text-fill: #f6e6b8; -fx-font-size: 21px; -fx-font-weight: bold; }
+.eyebrow { -fx-text-fill: #9db0c1; -fx-font-size: 10px; -fx-font-weight: bold; -fx-padding: 16 0 4 10; }
+.nav-button { -fx-background-color: transparent; -fx-text-fill: #e3eaf0; -fx-font-size: 14px; -fx-padding: 12 14; -fx-background-radius: 10; }
+.nav-button:hover { -fx-background-color: #3a5268; }
+.profile { -fx-text-fill: #d8e3eb; -fx-font-size: 12px; -fx-padding: 14 8 0 4; -fx-border-color: #52677a transparent transparent transparent; }
+.page-title { -fx-font-size: 27px; -fx-font-weight: bold; -fx-text-fill: #253a50; }
+.muted { -fx-text-fill: #778493; -fx-font-size: 13px; }
+.card, .welcome-card { -fx-background-color: white; -fx-background-radius: 16; -fx-effect: dropshadow(gaussian, #253a5012, 16, 0, 0, 5); }
+.welcome-card { -fx-padding: 25; -fx-background-color: #e7f0ef; }
+.welcome-card > Label:first-child { -fx-text-fill: #53827c; -fx-font-size: 11px; -fx-font-weight: bold; }
+.welcome-title { -fx-text-fill: #253a50; -fx-font-size: 21px; -fx-font-weight: bold; }
+.metric-value { -fx-text-fill: #253a50; -fx-font-size: 25px; -fx-font-weight: bold; }
+.section-title { -fx-text-fill: #253a50; -fx-font-size: 16px; -fx-font-weight: bold; }
+.primary { -fx-background-color: #668f89; -fx-text-fill: white; -fx-font-weight: bold; -fx-padding: 11 17; -fx-background-radius: 9; }
+.primary:hover { -fx-background-color: #527a74; }
+.secondary { -fx-background-color: #e7f0ef; -fx-text-fill: #426f69; -fx-padding: 10 15; -fx-background-radius: 9; }
+.text-field, .date-picker { -fx-background-color: #f7f8fa; -fx-border-color: #e2e7eb; -fx-border-radius: 8; -fx-background-radius: 8; -fx-padding: 10; }
+.data-table { -fx-background-color: white; -fx-background-radius: 12; -fx-border-color: #e7ebef; -fx-border-radius: 12; }
+.data-table .column-header-background { -fx-background-color: #edf3f2; -fx-background-radius: 12 12 0 0; }
+.data-table .column-header .label { -fx-text-fill: #385a58; -fx-font-weight: bold; -fx-padding: 12 6; }
+.status { -fx-background-color: #edf1f4; -fx-text-fill: #74808b; -fx-padding: 9 18; -fx-font-size: 11px; }

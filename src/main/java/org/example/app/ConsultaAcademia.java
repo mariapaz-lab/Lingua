@@ -1,4 +1,4 @@
-
+package org.example.app;
 
 public final class ConsultaAcademia {
     private ConsultaAcademia() { }

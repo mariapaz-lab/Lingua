@@ -1,4 +1,4 @@
-
+package org.example.app;
 
 public abstract class Usuario {
     protected String numeroId;

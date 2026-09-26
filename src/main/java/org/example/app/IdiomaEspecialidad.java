@@ -1,4 +1,4 @@
-
+package org.example.app;
 
 public enum IdiomaEspecialidad {
     ESPANOL,

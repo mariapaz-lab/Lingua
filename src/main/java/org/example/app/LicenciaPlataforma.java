@@ -1,4 +1,4 @@
-package co.edu.uniquindio.poo.App;
+package org.example.app;
 
 public class LicenciaPlataforma implements MaterialEstudio {
     @Override

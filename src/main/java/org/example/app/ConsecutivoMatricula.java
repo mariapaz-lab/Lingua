@@ -1,4 +1,4 @@
-
+package org.example.app;
 
 public class ConsecutivoMatricula {
         private static ConsecutivoMatricula instancia;
